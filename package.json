@@ -1,0 +1,22 @@
+{
+  "name": "top5-proxy",
+  "version": "1.0.0",
+  "description": "proxy web service for the top5 ios App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasht/top5-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasht/top5-proxy/issues"
+  },
+  "homepage": "https://github.com/nasht/top5-proxy#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
